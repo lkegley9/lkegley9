@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lkegley9
-- 👀 I’m interested in computers, gasoline engines, and keeping neat and organized.
+- 👀 I’m interested in computers, gasoline engines, and keeping neat and organized.  Oh and music, some Audioslave, Rage Against the Machine, System of a Down.
 - 🌱 I’m currently learning how to use Linux and get the drivers necessary for various hardware I previously used on Windows. . .
 - 💞️ I’m looking to collaborate on scripting, and the Github community.
 - 📫 How to reach me: Lkegley9@gmail.com
